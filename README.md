@@ -1,4 +1,4 @@
-# NanoGPT
+# Colin-GPT Model
 
 A high-performance, character-level Transformer based on the "Attention is All You Need" architecture. This project started with the baseline implementation from Andrej Karpathy's NanoGPT and was extended with modern architectural features and training optimizations used in state-of-the-art LLMs.
 
